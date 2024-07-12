@@ -238,6 +238,7 @@
 - repo_url: https://github.com/greenelab/manubot-gpt-manuscript
   html_url: https://greenelab.github.io/manubot-gpt-manuscript/
   preprint_citation: doi:10.1101/2023.01.21.525030
+  journal_citation: doi:10.1093/jamia/ocae139
 - repo_url: https://github.com/greenelab/optimizer-manuscript
   html_url: https://greenelab.github.io/optimizer-manuscript/
   preprint_citation: doi:10.1101/2023.06.26.546586
@@ -247,6 +248,10 @@
 - repo_url: https://github.com/jessegmeyerlab/proteomics-tutorial
   html_url: https://jessegmeyerlab.github.io/proteomics-tutorial/
   preprint_citation: arxiv:2311.07791
+  journal_citation: 10.1021/acsmeasuresciau.3c00068
 - repo_url: https://github.com/biocypher/biochatter-paper
   html_url: https://biocypher.github.io/biochatter-paper/
   preprint_citation: arxiv:2305.06488
+- repo_url: https://github.com/xomicsdatascience/transcriptome-proteome-nas-manubot
+  html_url: https://xomicsdatascience.github.io/transcriptome-proteome-nas-manubot/
+  preprint_citation: doi:10.1101/2024.07.08.602560
